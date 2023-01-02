@@ -1,6 +1,7 @@
-# console-calculator
-My very stupid python calculator, Which all works in the console cause i'm stupid, didnt really learn python a lot and i dont know how to make windows
+# Python Console Calculator
 
-Also if you dont put a number in either the first or second time, The program will crash
+This is a stupid python calculator i made which all works in the console, Why not a window and be actually smart? Because i made this on a school chromebook when my pc was broken.
 
-Note that i wont make any fixes to this as i really dont care that much
+The program doesnt feature too much except for simple math such as Plus, Minus, Division and Multiplication, However also has a square root feature.
+
+This program was supposed to have much more such as a feature that checks if the variables are numbers and if the math thing was valid, however i stopped when i realized how bad i actually was in python.
