@@ -8,13 +8,13 @@ print(" ")
 
 def withWhat_isnt_possible(): # This function gets called if withWhat isnt possible
     print("Either this feature isnt implemented or you wrote it wrong.")
-    print("Console Calculator made by dotzSimplicity")
+    print("Console Calculator made by dotzSimplicity - Python Edition")
     print("This program has automatically exited.")
     sys.exit()
 
 def is_withWhat_square_root(): # This function gets called if withWhat is "Square Root"
     print(math.sqrt(num1))
-    print("Console Calculator made by dotzSimplicity")
+    print("Console Calculator made by dotzSimplicity - Python Edition")
     sys.exit()
 
 possibleMath = ["Plus", "Times", "Division", "Minus", "Square Root"] # A now unneeded List, This was used for checking is withWhat is possible
@@ -37,4 +37,4 @@ elif withWhat == "Division":
 elif withWhat == "Minus":
     print(num1 - num2)
 
-print("bad Console Calculator made by dotzSimplicity")
+print("bad Console Calculator made by dotzSimplicity - Python Edition")
